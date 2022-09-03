@@ -4,9 +4,9 @@ function App() {
   return (
     <div>
       <h1>TODO</h1>
-      <Todo />
-      <Todo />
-      <Todo />
+      <Todo title="Learn React" />
+      <Todo title="Learn Nodejs" />
+      <Todo title="Learn NextJS" />
     </div>
   );
 }
